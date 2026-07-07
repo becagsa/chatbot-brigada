@@ -3,7 +3,7 @@ const mensagem = document.getElementById("mensagem");
 const btnEnviar = document.getElementById("btnEnviar");
 const btnLimpar = document.getElementById("btnLimpar");
 
-const API_URL = "https://chatbot-brigada-1.onrender.com";
+const API_URL = "https://chatbot-brigada-1.onrender.com/chat";
 
 const mensagemInicial =
   "Olá! Sou um assistente especializado em Brigada de Incêndio em Empresas. Posso ajudar com dúvidas sobre prevenção, evacuação, extintores, classes de incêndio e procedimentos básicos de emergência.";
